@@ -35,3 +35,6 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+### Авторы
+ Нелюбина Юлия
+ 
